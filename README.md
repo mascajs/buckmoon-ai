@@ -1,7 +1,7 @@
 # buckmoon-ai
 
 > **Practical AI integration and automation tools designed to solve real-world problems.**
-> 인공지능과 코드를 결합하여 복잡한 현실의 문제를 우아하게 해결하는 실용주의 자동화 프로젝트 저장소입니다.
+> 인공지능과 코드를 결합하여 복잡한 현실의 문제를 찾아 자동화하고싶은 마음이 담긴 프로젝트 저장소입니다.
 
 
 ## 📌 소개 (Introduction)
